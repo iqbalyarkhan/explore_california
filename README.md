@@ -1,3 +1,3 @@
 # explore_california
 
-A small project to further familiarize myself with github.
+A small website project to further familiarize myself with github. 
